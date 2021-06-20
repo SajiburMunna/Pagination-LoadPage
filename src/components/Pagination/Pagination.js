@@ -17,7 +17,7 @@ const Pagination = () => {
         return(
             <div>
                  {<Product   product={user}>  </Product> }
-                 
+                 <h2>hi  i am sojib</h2>
 
             </div>
         )
